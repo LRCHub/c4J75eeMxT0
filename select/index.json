@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "walk on Believer♪",
+  "base_artist": "豊崎愛生",
+  "createdAt": "2025-12-03T09:59:04.707389Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "walk on Believer♪",
+      "artist": "Aki Toyosaki",
+      "has_synced": true,
+      "path": "select/01_walk_on_Believer♪_Aki_Toyosaki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "walk on Believer♪",
+      "artist": "豊崎 愛生",
+      "has_synced": false,
+      "path": "select/pl_01_walk_on_Believer♪_豊崎_愛生.txt"
+    }
+  ]
+}
